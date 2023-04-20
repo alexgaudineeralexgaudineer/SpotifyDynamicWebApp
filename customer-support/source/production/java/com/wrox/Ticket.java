@@ -12,7 +12,6 @@ public class Ticket
 
     private String body;
     
-    private String test;
 
     private Map<String, Attachment> attachments = new LinkedHashMap<>();
 
